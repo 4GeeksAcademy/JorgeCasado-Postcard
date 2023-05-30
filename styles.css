@@ -50,11 +50,10 @@ input {
 
 .postcard-footer {
     text-align: center;
+    background-color: white;
 }
 
 button {
-    background-color: darkgrey padding 5px 10px;
-    border: none;
-
-
+    background-color: darkgrey padding 5px;
+    border-color: black;
 }
